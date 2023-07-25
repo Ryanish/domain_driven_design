@@ -1,5 +1,5 @@
 # Domain Driven Design with Golang
-Following the Domain Dirven Design with Goland book by Matthew Boyle
+Following the Domain Driven Design with Goland book by Matthew Boyle
 
 ## Setting the scene
 
